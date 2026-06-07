@@ -1,0 +1,8 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { background: #060a0f; color: #e2eaf2; }
+::-webkit-scrollbar { width: 4px; height: 4px; }
+::-webkit-scrollbar-track { background: #060a0f; }
+::-webkit-scrollbar-thumb { background: #1e3048; border-radius: 2px; }
+input::placeholder { color: #3a5a7a; }
+input[type=range] { accent-color: #00d4ff; }
+select option { background: #111820; }
